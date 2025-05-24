@@ -1,0 +1,13 @@
+{
+  "navbar": {
+    "home": "Startseite",
+    "services": "Dienstleistungen",
+    "portfolio": "Portfolio",
+    "reviews": "Bewertungen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "VastuSpaze",
+    "subtitle": "Gestalten Sie Ihren Raum neu mit Experten für Renovierungsdienste"
+  }
+}

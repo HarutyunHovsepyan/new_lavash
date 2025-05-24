@@ -17,28 +17,28 @@ import user4 from "../assets/user4.webp";
 import user5 from "../assets/user5.webp";
 import user6 from "../assets/user6.webp";
 
-export const LINKS = [
-  {
-    name: "Services",
-    link: "#services",
-  },
-  {
-    name: "Portfolio",
-    link: "#portfolio",
-  },
-  {
-    name: "About",
-    link: "#about",
-  },
-  {
-    name: "Reviews",
-    link: "#reviews",
-  },
-  {
-    name: "Contact",
-    link: "#contact",
-  },
-];
+// export const LINKS = [
+//   {
+//     name: "Services",
+//     link: "#services",
+//   },
+//   {
+//     name: "Portfolio",
+//     link: "#portfolio",
+//   },
+//   {
+//     name: "About",
+//     link: "#about",
+//   },
+//   {
+//     name: "Reviews",
+//     link: "#reviews",
+//   },
+//   {
+//     name: "Contact",
+//     link: "#contact",
+//   },
+// ];
 
 export const HERO_CONTENT = {
   title: "VastuSpaze",
