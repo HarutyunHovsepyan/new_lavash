@@ -5,7 +5,7 @@ const Services = () =>{
         <section className="max-w-7xl mx-auto border-b-2" id="services">
             <div className="my-20">
                 <h2 className="text-xl lg:text-3xl tracking-ligh text-center uppercase mb-20">
-                    Our Home Renovation Servides
+                    Our Home Renovation Servide
                 </h2>
                 {SERVICES_CONTENT.map((service,index) =>{
                    return(
